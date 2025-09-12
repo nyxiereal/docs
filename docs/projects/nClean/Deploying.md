@@ -8,9 +8,9 @@ Deploying the nClean server on Windows is not supported, I highly recommend usin
 :::tip Python requirements
 nClean requires Python 3.10 or higher, please install it using the package manager for your distro.
 :::
-1. Clone the nClean repository from Codeberg
+1. Clone the nClean repository from GitHub
 ```bash
-git clone https://codeberg.org/nxr/nClean.git
+git clone https://github.com/nyxiereal/nClean.git
 cd nClean
 ```
 2. Install uv
@@ -39,9 +39,9 @@ uv run gunicorn -w 4 -b 0.0.0.0:5002 main:app
 ```
 
 ## Deploying in Docker
-1. Clone the nClean repository from Codeberg
+1. Clone the nClean repository from GitHub
 ```bash
-git clone https://codeberg.org/nxr/nClean.git
+git clone https://github.com/nyxiereal/nClean.git
 cd nClean
 ```
 2. Build the Docker image
@@ -52,3 +52,4 @@ docker buildx build -t nclean .
 ```bash
 docker run -d -p 5002:5002 nclean --name nclean
 ```
+4. Log into the admin panel for nClean using the admin/admin user credentials, then restart the server and log in again.

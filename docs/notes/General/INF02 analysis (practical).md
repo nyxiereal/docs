@@ -1,4 +1,4 @@
-# INF02 Analysis
+# INF02 Analysis (practical part)
 I decided to analyze the last 8 exams, alongside the grading guidelines, provided by the [Arkusze.pl website](https://arkusze.pl/egzamin-zawodowy-kwalifikacja-inf-02/). Be warned I'm analyzing only the practical part of the exam, not the theoretical one.
 
 
@@ -6,13 +6,14 @@ I decided to analyze the last 8 exams, alongside the grading guidelines, provide
 # Exam structure
 :::warning IMPORTANT INFORMATION
 Basic information you need to know before the exam:
-1. You have **150 minutes to complete** the exam.
-2. All accounts you are given use the `ZAQ!2wsx` password. Linux uses the `administrator` account, while Windows uses the `Administrator` account.
-3. The OSs used are Windows 10, Windows Server 2022, Ubuntu 22.04 and Ubuntu Server 22.04.
-4. **After each completed task, raise your hand** until an attendant comes up to you to verify your work.
-5. **Attendants might randomly come up to you** and ask you to explain what you're doing/did. Respond calmly and clearly.
-6. Take screenshots and place them in a specified folder, as instructed by the exam document.
-7. **CABLING IS GRADED**, make sure to **clean up your workspace** and **properly manage your cables**. You can be asked to leave if your workspace is messy.
+1. You **MUST ARRIVE AT LEAST 30 MINUTES** before the exam begins.
+2. You have **150 minutes to complete** the exam.
+3. All accounts you are given use the `ZAQ!2wsx` password. Linux uses the `administrator` account, while Windows uses the `Administrator` account.
+4. The OSs used are Windows 10, Windows Server 2022, Ubuntu 22.04 and Ubuntu Server 22.04.
+5. **After each completed task, raise your hand** until an attendant comes up to you to verify your work.
+6. **Attendants might randomly come up to you** and ask you to explain what you're doing/did. Respond calmly and clearly.
+7. Take screenshots and place them in a specified folder, as instructed by the exam document.
+8. **CABLING IS GRADED**, make sure to **clean up your workspace** and **properly manage your cables**. You can be asked to leave if your workspace is messy.
 :::
 The exam consists of about 6 task types, each of which are described below
 
