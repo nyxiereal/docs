@@ -143,8 +143,8 @@ You should see `active (running)` in green text.
     dig [HOSTNAME].[SURNAME].local
     ```
 2. Windows client
-    1. Go to the network adapter settings in virtualbox settings for the machine, make sure there is only ONE adapter set to internal network, with the promiscuous mode set to Allow All.
-    ![good network settings](image-2.webp)  
+    1. Go to the network adapter settings in virtualbox settings for the machine, make sure there is only ONE adapter set to internal network, with the promiscuous mode set to Allow All.  
+    ![good network settings](image-1.webp)  
     2. After that is done, power on the machine, open the control panel, go to Network and Internet > Network and Sharing Center > Change adapter settings, right click on the network adapter and select properties. Select `Internet Protocol Version 4 (TCP/IPv4)` and click properties. Set the preferred DNS server to `10.80.80.1`.
     3. Open a command prompt and run:
     ```bash
