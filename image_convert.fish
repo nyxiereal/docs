@@ -26,10 +26,10 @@ if not test -d "$target_dir"
 end
 
 # Find and convert images
-for file in (find "$target_dir" -type f -iname "*.webp" -o -iname "*.jpg" -o -iname "*.jpeg")
+for file in (find "$target_dir" -type f -iname "*.png" -o -iname "*.jpg" -o -iname "*.jpeg")
     set new_file (path change-extension webp "$file")
 
-    if cwebp -q 98 "$file" -o "$new_file"
+    if ./cwebp -q 98 "$file" -o "$new_file"
         echo "Converted: $file -> $new_file"
         rm "$file"
     else
