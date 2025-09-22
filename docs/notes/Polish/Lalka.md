@@ -1,6 +1,12 @@
 # Lalka
 Lalka to powieść Bolesława Prusa, odbywa się ona w 1878 roku w Warszawie. Głównym bohaterem jest Stanisław Wokulski.
 
+:::tip Serial
+Możesz obejżeć cały serial na TVP, https://cyfrowa.tvp.pl/website/lalka,42036001
+:::
+
+---
+
 :::tip Najważniejsze informacje
 Kluczowe elementy fabuły:
 - Akcja toczy się w 1878 roku w Warszawie, czasami w Paryżu.
@@ -12,15 +18,37 @@ Najważniejsi bohaterowie:
 - Izabela Łęcka - piękna ale próżna arystokratka, świadomie wykorzystuje Wokulskiego finansowo, marzy o bogatym arystokratycznym mężu.
 - Ignacy Rzecki - wspólnik Wokulskiego, autor pamiętnika, wielbiciel Napoleona, patriota.
 
-Kluczowe tematy:
+:::details Tematy
 - Niespełniona miłość - Wokulski/Izabela, Baron Dalski/Ewelina Janocka
-- Konflikty międzyklasowe - Żydzi, Arystokracja, Kupcy
-- Postęp - Geist, Julian
+- Warstwy społeczne - Żydzi, Arystokracja, Kupcy
+- Naukowiec - Geist, Julian, Wokulski za młodu
 - Patriotyzm - Rzecki, Wokulski
+- Przyjaźń - Wokulski i Rzecki
+- Samobójstwo - Wokulski (nieudana próba), Katz (udane)
+- Samotność - Wokulski 
+- Dzieciństwo - Rzecki
+- Zdrada - Starski z Izabelą, Starski z Eweliną
+- Hazard - Wokulski, Łęcki (przegrywał żeby Tomasz miał pieniądze), Baron Krzeszowski (stracił wszystko)
+- Przeszłość - Pamiętnik starego subiekta, Ignacego
+- Oszustwo - Maruszewicz oszukał Wokulskiego
+- Sztuka - Paryż, Arystokracja
+- Legenda - Opowiedziana przez Węgielka koło zamku
+- Podróż - Rzecki, Wokulski
+- Marzenie - Rzecki
+- Miasto - Warszawa 
+- Pieniądze - zawsze chodzi o pieniądze
+- Przemijanie czasu - pamiętnik 
+- Pojedynek - Wokulski z baronem
+- Domu - wynajem kamienicy
+- Asymilacja żydów
+- Nauczycielki - Pani Meliton
+- Lekaża - Doktor Szuman
+- Wsi - zasławek
+- Egoizm - arystokracja wykożystująca innych
 :::
 
 ## Stanisław Wokulski
-Jest to główny bohater powieści, **właściciel sklepu galanteryjnego**. Wokulski jest postacią złożoną, łączy w sobie cechy romantyka i pozytywisty. Z jednej strony **marzy o miłości do Izabeli Łęckiej**, z drugiej zaś angażuje się w działalność społeczną i naukową. **Jest człowiekiem miłym, szanowanym**, i lubianym, używa swojego majątku, aby pomagać innym. **Jako jeden z niewielu, szanuje działalność żydów**, oni odwdzięczają te uczucia. Wokulski jest również postacią tragiczną, ponieważ jego miłość do Izabeli jest niemożliwa do spełnienia, gdyż Izabela jest zbyt dumna i próżna, aby być z kupcem. **Za młodu pracował w winiarni u Hopfera jako subiekt**, ta pozycja nie spełniała jego ambicji, więc w 1861 zrezygnował z pracy, i **zamieszkał u Ignacego**. Całkowicie poświęcił się nauce, ukończył szkołę przygotowawczą, **lecz w 1863 porzucił studia**, **wyruszył na powstanie styczniowe**, lecz został zesłany na Syberię na 7 lat. Po powrocie z zesłania, jego przyjaciel zapewnił mu posadę u Jana Mincla. **Po śmierci Mincla poślubił Małgorzatę Minclową, która zmarła 4 lata później**, zostawiając mu wielki majątek.
+Jest to główny bohater powieści, **właściciel sklepu galanteryjnego**. Wokulski jest postacią złożoną, łączy w sobie cechy romantyka i pozytywisty. Z jednej strony **marzy o miłości do Izabeli Łęckiej**, z drugiej zaś angażuje się w działalność społeczną i naukową. **Jest człowiekiem miłym, szanowanym**, i lubianym, używa swojego majątku, aby pomagać innym. **Jako jeden z niewielu, szanuje działalność żydów**, oni odwdzięczają te uczucia. Wokulski jest również postacią tragiczną, ponieważ jego miłość do Izabeli jest niemożliwa do spełnienia, gdyż Izabela jest zbyt dumna i próżna, aby być z kupcem. **Za młodu pracował w winiarni u Hopfera jako subiekt**, ta pozycja nie spełniała jego ambicji, więc w 1861 zrezygnował z pracy, i **zamieszkał u Ignacego**. Całkowicie poświęcił się nauce, ukończył szkołę przygotowawczą, **lecz w 1863 porzucił studia**, **wyruszył na powstanie styczniowe**, lecz został zesłany na Syberię na 7 lat. Po powrocie z zesłania, jego przyjaciel zapewnił mu posadę u Jana Mincla. **Po śmierci Mincla poślubił Małgorzatę Minclową, która zmarła 4 lata później**, zostawiając mu 30 tysięcy rubli i sklep Mincla. Wyjechał na jakiś czas do innego kraju, handlując zbożem, mnożąc swój majątek 10-krotnie.
 
 ## Izabela Łęcka
 Jest córką Tomasza Łęckiego, arystokraty, **który popadł w długi**. Izabela jest piękną, **ale próżną i kapryśną** kobietą. **Marzy o bogatym mężu z arystokratycznego** rodu, **nie zwracając uwagi na uczucia Wokulskiego**. **Świadomie wykożystuje Wokulskiego** dla własnych korzyści, głównie finansowych, dlatego też jest uznawana za postać negatywną. Mieszka w lokalu, razem z ojcem, Tomaszem Łęckim i kuzynką Florentyną.
@@ -44,7 +72,7 @@ Jest typowym przedstawicielem zepsutej arystokracji, popadł w **długi z powodu
 **Jest młodym, przystojnym człowiekiem**, nie zwraca uwagi na wygląd, lecz na **naukę i wiedzę**. Często ma potargane włosy, jest wykształcony, **chcę wynaleźć maszynę latającą**. Łączy go z Wokulskim wspólna pasja do nauki, i zainteresowanie naukami ścisłymi. **Podkreśla że kupiec jest jedyną osobą w Warszawie, z którą może porozmawiać o swoich wynalazkach**. Jest indywidualistą, często izoluje się od społeczeństwa, nawet będąc arystokratą.
 
 ## Michał Szuman (Doktor Szuman)
-Jest żydowskim lekarzem, z powodu swojego nagromadzonego majątku, pozwala sobie na **leczenie pacjentów za darmo**. Jest przyjacielem Wokulskiego, **czuje solidarność z prześladowanymi Żydami**. Antysemityzm warszawiaków sprawia, że Szuman zaczyna żyć w ciągłym strachu. Porzuca działalność naukową i koncentruje się na zarabianiu pieniędzy. Od początku **wiedział że miłość Wokulskiego do Izabeli nie skończy się dobrze**, a Wokulski będzie cierpiał.
+Jest żydowskim lekarzem, z powodu swojego nagromadzonego majątku, pozwala sobie na **leczenie pacjentów za darmo**. Jest przyjacielem Wokulskiego, **czuje solidarność z prześladowanymi Żydami**. Antysemityzm warszawiaków sprawia, że Szuman zaczyna żyć w ciągłym strachu. Porzuca działalność naukową i koncentruje się na zarabianiu pieniędzy. Od początku **wiedział że miłość Wokulskiego do Izabeli nie skończy się dobrze**, a Wokulski będzie cierpiał. Jest uważany za dziwaka, gdyż jest kolekcjonerem włosów. 
 
 ## Henryk Szlangbaum
 **Jest żydowskim subiektem w sklepie Wokulskiego**. **Nie cieszy się sympatią wśród współpracowników**. Ma pięcioro dzieci, które wychowuje na Polaków. Wraca sam do żydowskiego nazwiska, ponieważ "*zrozumiałem, że jako Żyd, jestem tylko nienawistny dla chrześcijan, a jako [osoba nawrócona] byłbym wstrętny i dla chrześcijan i dla Żydów*".
@@ -71,13 +99,13 @@ Jest starym arystokratą, **jego żona, Ewelina Janocka, zdradza go z Starskim**
 Należy do arystokracji, stanowi reprezentacje wszystkich negatywnych cech arystokracji, **będąc w małżeństwie z Dalskim tylko dla pieniędzy**. Jest wnuczką Prezesowej Zasławskiej. Po ujawnieniu romansu z Starskim, zostaje wyzwana na pojedynek przez byłego, i wygrywa, zostawiając go rannego.
 
 ## Kazimierz Starski
-Mężczyzna usiłujący zdobyć majątek przez małżeństwo z kobietą z bogatej arystokratycznej rodziny. **Samemu będąc arystokratą, lecz biednym**. Nie ukrywa, że **jego priorytetami są romanse, pieniądze** i luksusowe życie. Jest znanym kobieciarzem, aroganckim i sprytnym.
+Mężczyzna usiłujący zdobyć majątek przez małżeństwo z kobietą z bogatej arystokratycznej rodziny. **Samemu będąc arystokratą, lecz biednym**. Nie ukrywa, że **jego priorytetami są romanse, pieniądze** i luksusowe życie. Jest znanym kobieciarzem, aroganckim i sprytnym. Prowadzi romans z Izabelą.
 
 ## Profesor Geist
-**Jest wynalazcą z Niemiec, mieszkającego w Paryżu**, prezentuje Wokulskiemu swój **metal lżejszy od powietrza**. Oferuje Wokulskiemu współpracę, lecz Wokulski odmawia, referując mu inną osobę. Jest bardzo nerwowy, **szybko się denerwuje, idealistyczny**. Poświęcił całe swoje życie nauce, przestając dbać o pieniądze po sprzedaży patentu na dynamit. **Jest przedstawieniem szalonego naukowca**, który desperacko szuka następnego wielkiego odkrycia.
+**Jest wynalazcą z Niemiec, mieszkającego w Paryżu**, prezentuje Wokulskiemu swój **metal lżejszy od wody**. Oferuje Wokulskiemu współpracę, lecz Wokulski odmawia, referując mu inną osobę. Jest bardzo nerwowy, **szybko się denerwuje, idealistyczny**. Poświęcił całe swoje życie nauce, przestając dbać o pieniądze po sprzedaży patentu na dynamit. **Jest przedstawieniem szalonego naukowca**, który desperacko szuka następnego wielkiego odkrycia.
 
 ## Pani Meliton
-**Jest swatką, byłą nauczycielką**. Świadczy swoje usługo **Wokulskiemu, informując go o rodzinie Łęckich**, i czynach Izabeli. Jest mądra, i bardzo dobrze zna ludzi.
+**Jest swatką, byłą nauczycielką**. Świadczy swoje usługo **Wokulskiemu, informując go o rodzinie Łęckich**, i czynach Izabeli. Jest mądra, i bardzo dobrze zna ludzi. Po zapaści psychicznej spowodowanej przez pogryzieie służącej przez jej psa, trafiła do szpitala, gdzie nikt jej nie odwiedzał. 
 
 ## Tomasz Łęcki
 Ojciec Izabeli, **arystokrata, który popadł w długi**. Jest 60+ letnim mężczyzną, który niegdyś był bogaty, lecz przez swój styl życia, i **brak umiejętności zarządzania pieniędzmi, popadł w długi u żydów**. Dostaje dużą pomoc finansową od **Wokulskiego, który kupuje jego kamienicę za 90 tysięcy rubli** (o 30k więcej niż wynosiła jej wartość), jak i również spłaca jego żydowskie długi.
@@ -85,3 +113,8 @@ Ojciec Izabeli, **arystokrata, który popadł w długi**. Jest 60+ letnim mężc
 :::tip Wytłumaczenie "długi u żydów"
 W tamtych czasach, na początku arystokraci pożyczali pieniądze od innych arystokratów. Później od katolików. A jak żaden katolik nie chciał pożyczyć pieniędzy, byli zmuszeni do pożyczania od żydów. Było to uważane za hańbiące, gdyż człowiek musiał głęboko upaść, aby nie móc znaleść pomocy wśród swoich.
 :::
+
+# Dodatkowe postacie
+
+## August Katz
+Widoczny jedynie w wspomnieniach z powstania Ignacego, jego przyjaciela. Popełnia samobójstwo z powody wywartej na niego presji powstania.
