@@ -10,46 +10,47 @@ You will probably have a better time with eduVulcan Premium, it is paid, but onl
 :::
 
 ## Feature comparison with eduVulcan
-All comparisons are made with the Android app.
-| Feature                   | Basalt                         | eduVulcan Basic   | eduVulcan Premium                 |
-| ------------------------- | ------------------------------ | ----------------- | --------------------------------- |
-| PUSH Notifications        | 🚧 (grades/messages only)       | ❌                 | ✅                                 |
-| Excusing absences         | 🚧 (no example data, view only) | ❌                 | ✅                                 |
-| Messages                  | 🚧 (view only)                  | ❌                 | ✅                                 |
-| App Theming               | ✅ Material You compatible      | ❌                 | 🚧 Basic changing of in-app colors |
-| Attendance                | ✅                              | ✅                 | ✅                                 |
-| Tests/Quizzes/Homework    | ✅                              | ✅                 | ✅                                 |
-| Grades and grade averages | ✅                              | ✅                 | ✅                                 |
-| Calendar                  | 🚧 (custom events are WIP)      | ✅ + Custom events | ✅ + Custom events                 |
-| Timetable                 | ✅                              | ✅                 | ✅                                 |
-| Viewing Teachers          | ✅                              | ✅                 | ✅                                 |
-| School Announcements      | ❌ (no example data)            | ✅                 | ✅                                 |
-| Notes                     | ✅                              | ✅                 | ✅                                 |
-| School information        | ✅                              | ✅                 | ✅                                 |
-| Lucky number              | ❌ (no example data)            | ✅                 | ✅                                 |
+| Feature                   | Basalt              | eduVulcan Basic     | eduVulcan Extended                  |
+| ------------------------- | ------------------- | ------------------- | ----------------------------------- |
+| PUSH Notifications        | ✅ (polling)         | ❌                   | ✅                                   |
+| Excusing absences         | ❌ (no example data) | ❌                   | ✅                                   |
+| Messages                  | ✅                   | ❌                   | ✅                                   |
+| App Theming               | ✅ (Material You)    | ❌                   | 🚧 (Basic changing of in-app colors) |
+| Attendance                | ✅                   | ✅                   | ✅                                   |
+| Tests/Quizzes/Homework    | ✅                   | ✅                   | ✅                                   |
+| Grades and grade averages | ✅                   | ✅                   | ✅                                   |
+| Calendar                  | ✅ (+ Custom events) | ✅ (+ Custom events) | ✅ (+ Custom events)                 |
+| Timetable                 | ✅                   | ✅                   | ✅                                   |
+| Viewing Teachers          | ✅                   | ✅                   | ✅                                   |
+| School Announcements      | ✅                   | ✅                   | ✅                                   |
+| Notes                     | ✅                   | ✅                   | ✅                                   |
+| School information        | ✅                   | ✅                   | ✅                                   |
+| Lucky number              | ❌ (no example data) | ✅                   | ✅                                   |
+| Grade statistics          | ✅                   | ✅                   | ✅                                   |
 
 ## Feature comparison with Wulkanowy
-| Feature                         | Basalt                               | Wulkanowy         |
-| ------------------------------- | ------------------------------------ | ----------------- |
-| Login via email and password    | ✅                                    | ✅                 |
-| Grades                          | ✅                                    | ✅                 |
-| Grade statistics                | ✅                                    | ✅                 |
-| Attendance                      | ✅                                    | ✅                 |
-| Attendance percentage           | ✅                                    | ✅                 |
-| Tests/Quizzes                   | ✅                                    | ✅                 |
-| Timetable                       | ✅                                    | ✅                 |
-| Completed lessons               | ✅                                    | ✅                 |
-| Messages                        | 🚧 (view only)                        | ✅                 |
-| Homework                        | ✅                                    | ✅                 |
-| Notes                           | ✅                                    | ✅                 |
-| Lucky number                    | ❌ (no example data)                  | ✅                 |
-| Extra lessons                   | ✅                                    | ✅                 |
-| School meetings                 | ❌ (no example data)                  | ✅                 |
-| Student & school info           | ✅                                    | ✅                 |
-| Independent average calculation | ✅                                    | ✅                 |
-| Notifications (e.g., new grade) | 🚧 (grades/messages only)             | ✅                 |
-| Multi-account support           | 🚧 (might be possible)                | ✅                 |
-| Rename student account          | ✅ (we don't use that account system) | ✅                 |
-| Dark/AMOLED theme               | ✅ (Material You)                     | ✅ (dark & AMOLED) |
-| Offline mode                    | ❌ (we don't have cache support, yet) | ✅                 |
-| Optional ads to support project | ❌ (we will NEVER have ads)           | ✅                 |
+
+| Feature                         | Basalt                     | Wulkanowy         |
+| ------------------------------- | -------------------------- | ----------------- |
+| Login via email and password    | ✅                          | ✅                 |
+| Grades                          | ✅                          | ✅                 |
+| Grade statistics                | ✅                          | ✅                 |
+| Attendance                      | ✅                          | ✅                 |
+| Attendance percentage           | ✅                          | ✅                 |
+| Tests/Quizzes                   | ✅                          | ✅                 |
+| Timetable                       | ✅                          | ✅                 |
+| Completed lessons               | ✅                          | ✅                 |
+| Messages                        | ✅                          | ✅                 |
+| Homework                        | ✅                          | ✅                 |
+| Notes                           | ✅                          | ✅                 |
+| Lucky number                    | ❌ (no example data)        | ✅                 |
+| Extra lessons                   | ✅                          | ✅                 |
+| School meetings                 | ❌ (no example data)        | ✅                 |
+| Student & school info           | ✅                          | ✅                 |
+| Independent average calculation | ✅                          | ✅                 |
+| Notifications (e.g., new grade) | ✅                          | ✅                 |
+| Multi-account support           | ❌ (no example data)        | ✅                 |
+| Rename student account          | ❌ (no example data)        | ✅                 |
+| Dark/AMOLED theme               | ✅ (Material You)           | ✅ (dark & AMOLED) |
+| Offline mode                    | ✅                          | ✅                 |
+| Optional ads to support project | ❌ (we will NEVER have ads) | ✅                 |
