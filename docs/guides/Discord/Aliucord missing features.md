@@ -11,6 +11,7 @@ Compared to the RN client.
 | Super reactions     | ❌      | The fancy reactions that are more annoying than normal ones   |
 | E2EE VC             | ❌      | End-to-end encryption in voice chats (or dms i think)         |
 | Connection info     | ❌      | Steam games count, reddit karma count, etc.                   |
+| Old username badge  | ❌      | "Originally known as XXX#YYYY" badge                          |
 | Forwarding messages | 🚧      | Forwarding messages to other channels/dms                     |
 | Server tags         | 🚧      | User server tags                                              |
 | Slash commands      | 🚧      | Slash commands                                                |
