@@ -1,7 +1,7 @@
 export default {
   server: {
     allowedHosts: [
-      'nxr.codeberg.page/docs'
+      'docs.meowery.eu'
     ]
   }
 }

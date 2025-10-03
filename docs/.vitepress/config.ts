@@ -3,7 +3,7 @@ import sidebar from './sidebar.ts'
 export default {
   title: "Nyx's stuff",
   description: 'I write when I feel like it',
-  base: '/docs/',
+  base: '/',
   lastUpdated: true,
   themeConfig: {
     markdown: {
