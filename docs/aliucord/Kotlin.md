@@ -8,6 +8,6 @@
  
 - If Aliucord didn't exist, there wouldn't be any active client using the old one (except [Bluecord](https://bluesmods.com/bluecord/), which has a [very bad reputation](https://drive.google.com/drive/mobile/folders/1Y2m2lMSpN3GlOcXyceaO88Ljnr8xuNcp)).
  
-- Features from the new Discord app can be backported to the old one. [what does backport mean?](https://en.m.wikipedia.org/wiki/Backporting)
+- Features from new Discord versions can be backported to the old one. [what does backport mean?](https://en.m.wikipedia.org/wiki/Backporting)
  
 - New Discord version modded clients already exist, [Kettu](https://github.com/C0C0B01/Kettu/releases) is recommended.
