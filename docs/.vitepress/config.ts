@@ -17,7 +17,8 @@ export default {
       { text: 'Projects', link: '/projects/!Index.md' },
       { text: 'Guides', link: '/guides/!Index.html' },
       { text: 'Notes', link: '/notes/!Index.md' },
-      { text: 'Blog', link: '/blog/!Index.md' }
+      { text: 'Blog', link: '/blog/!Index.md' },
+      { text: 'Aliucord', link: '/aliucord/!Index.html' },
     ],
     sidebar,
     search: {
