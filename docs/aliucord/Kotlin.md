@@ -1,4 +1,4 @@
-# Why does Aliucord use a old Discord version?
+# Why does Aliucord use an old Discord version?
 
 1. React Native is very slow compared to Kotlin. Kotlin is the programming language that the old Discord version uses, which provides native android performance. While React Native (the framework that the new Discord app uses) is not even made for Android, it's a port from iOS and it doesn't work well on Android at all.
  
