@@ -10,4 +10,4 @@
  
 - Features from new Discord versions can be backported to the old one. [what does backport mean?](https://en.wikipedia.org/wiki/Backporting)
  
-- New Discord version modded clients already exist ([Kettu](https://github.com/C0C0B01/KettuManager/releases/latest) is recommended). [list of every Discord client](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties)
+- New Discord version modded clients already exist ([Kettu](https://github.com/C0C0B01/KettuManager/releases/latest) is recommended, you can find their plugins [here](https://plugins-list.pages.dev)). [list of every Discord client](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties)
