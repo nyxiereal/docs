@@ -1,28 +1,28 @@
 # Changelogs
 
 ## 2.5.0 (current version)
-- fix VC disconnecting issue by removing an old workaround
-- don't remove billing if user has nitro (the "billing settings" section from settings is now also removed for non-nitro users)
-- fix links opening in aliucord's window instead of the link's app window (such as youtube)
+- Fix VC disconnecting issue by removing an old workaround
+- Don't remove billing if user has nitro (the "billing settings" section from settings is now also removed for non-nitro users)
+- Fix links opening in aliucord's window instead of the link's app window (such as youtube)
 
 ## 2.4.0
-- user decorations coming soon (there's a coreplugin that lays the underground, they are not visible yet tho)
-- add google sideloading block warning
-- rich video embed fix (such as fxtwitter)
-- italize CorePlugins for /plugins command
-- randomize donation link in settings
-- fix AutoMod messages being broken (caused by ForwardedMessages)
-- disable school hubs dialog
-- add support for avif
-- remove billing
-- prevent overriding CorePlugins with external plugins in PluginDownloader
-- support new pins features
-- fix duplicate install buttons in #plugin-development channel
-- use original ref from links in PluginDownloader
+- User decorations coming soon (there's a coreplugin that lays the underground, they are not visible yet tho)
+- Add google sideloading block warning
+- Rich video embed fix (such as fxtwitter)
+- Italicize CorePlugins for /plugins command
+- Randomize donation link in settings
+- Fix AutoMod messages being broken (caused by ForwardedMessages)
+- Disable school hubs dialog
+- Add support for avif
+- Remove billing
+- Prevent overriding CorePlugins with external plugins in PluginDownloader
+- Support new pin features
+- Fix duplicate install buttons in #plugin-development channel
+- Use original ref from links in PluginDownloader
 
 ## 2.3.1
-- fix various poll bugs
-- add fallback gif format sticker
+- Fix various poll bugs
+- Add fallback gif format sticker
 - NPE when leaving guild with forwarded msg loaded (fixes a crash when leaving a server with a forwarded message loaded)
-- handle unknown new reply message types (fixes reply previews)
-- add AlignThreads fix as a CorePlugin
+- Handle unknown new reply message types (fixes reply previews)
+- Add AlignThreads fix as a CorePlugin
