@@ -6,7 +6,7 @@ This has been tested on all of my systems, please have an arch install usb ready
 | ------------------ | --------------------- | ----------- | ------------------------------ |
 | ThinkPad T14 Gen 2 | AMD Ryzen 7 PRO 5850U | 2x16GB DDR4 | 2TB WD Green SN350 NVMe        |
 | Main PC            | Intel Core i5-10400F  | 2x16GB DDR4 | 1TB Lexar NM710 NVMe + 4TB HDD |
-| ThinkPad T470s     | Intel Core i5-7600U   | 24GB DDR4   | 1TB i-dont-remember NVMe       |
+| ThinkPad T470s     | Intel Core i5-7300U   | 24GB DDR4   | 1TB i-dont-remember NVMe       |
 :::
 
 ## Setting up Booster initramfs
