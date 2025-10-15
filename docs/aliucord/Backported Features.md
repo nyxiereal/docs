@@ -35,4 +35,4 @@
 - VC Stream Preview (ViewStreamPreview plugin)
 - Viewing Forwarded Messages (built into Aliucord)
 - Webhook Utilities (EditWebhooks plugin)
-- `/slash` command (SlashNick plugin)
+- `/nick` command (SlashNick plugin)
