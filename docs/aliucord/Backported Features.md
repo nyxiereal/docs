@@ -1,10 +1,10 @@
-# Which features have been backported to Aliucord?
+# What features have been backported to Aliucord?
 
 ## Currently, we have:
 
 - Audio Playing (AudioPlayer plugin, kinda broken, you'll need to install the fork)
 - Changing Pronouns and Display Name (MoreProfile plugin)
-- Changing your own server Nickname with `/slash` command (SlashNick plugin)
+- Changing your server nickname with `/slash` command (SlashNick plugin)
 - Channel Cloning (CloneChannels plugin)
 - Closing DMs from bottomsheet (CloseDMs plugin)
 - ComponentsV2 (ComponentsV2 plugin, still in Beta)
@@ -19,7 +19,7 @@
 - Favorite GIFs section (Frecents plugin, currently broken)
 - Forwarding Messages (ForwardMessages plugin, still in Beta)
 - Friend Nicknames (FriendNicknames plugin)
-- Markdown Syntax such as # Headers and Hyperlinks (MoreHighlight plugin)
+- Markdown Syntax (MoreHighlight plugin)
 - Playing Embeds (PlayableEmbeds plugin)
 - Polls (built into Aliucord)
 - Profile Colors (NewProfiles plugin)
