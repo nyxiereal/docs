@@ -4,8 +4,6 @@
 
 - Audio Playing (AudioPlayer plugin, kinda broken, you'll need to install the fork)
 - Changing Pronouns and Display Name (MoreProfile plugin)
-- Changing your server nickname with `/slash` command (SlashNick plugin)
-- Channel Cloning (CloneChannels plugin)
 - Closing DMs from bottomsheet (CloseDMs plugin)
 - ComponentsV2 (ComponentsV2 plugin, still in Beta)
 - Connection Icons (UnknownConnectionIcons plugin)
@@ -15,6 +13,7 @@
 - Devices Page (Sessions plugin, kinda broken)
 - Discovery (Discovery plugin, kinda broken)
 - Display Names & Pomelo Usernames (built into Aliucord)
+- Duplicate Channels (CloneChannels plugin)
 - Favoriting Channels (FavoriteChannels plugin)
 - Favorite GIFs section (Frecents plugin, currently broken)
 - Forwarding Messages (ForwardMessages plugin, still in Beta)
@@ -36,3 +35,4 @@
 - VC Stream Preview (ViewStreamPreview plugin)
 - Viewing Forwarded Messages (built into Aliucord)
 - Webhook Utilities (EditWebhooks plugin)
+- `/slash` command (SlashNick plugin)
