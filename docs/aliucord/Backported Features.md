@@ -5,7 +5,7 @@
 - Audio Playing (AudioPlayer plugin, kinda broken, you'll need to install the fork)
 - Changing Pronouns and Display Name (MoreProfile plugin)
 - Closing DMs from bottomsheet (CloseDMs plugin)
-- ComponentsV2 (ComponentsV2Beta plugin)
+- Components V2 (ComponentsV2Beta plugin)
 - Connection Icons (UnknownConnectionIcons plugin)
 - Copying Message Link (MessageLinkContext/CopyUrlInsteadOfShare plugins)
 - Copying text correctly (CopyWithMarkdown plugin)
