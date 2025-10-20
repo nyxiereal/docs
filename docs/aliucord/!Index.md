@@ -1,3 +1,3 @@
 # Unofficial Aliucord docs
 
-idk
+Here you can find some information about Aliucord
