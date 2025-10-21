@@ -12,7 +12,7 @@
 | Audio Playing                      | 🔌 💣    | AudioPlayer                                              |
 | Changing Pronouns and Display Name | 🔌      | MoreProfile                                              |
 | Closing DMs from bottomsheet       | 🔌      | CloseDMs                                                 |
-| Components V2                      | 🔌 🚧    | ComponentsV2Beta plugin                                  |
+| Components V2                      | 🔌 🚧    | ComponentsV2Beta                                         |
 | Connection Icons                   | 🔌      | UnknownConnectionIcons                                   |
 | Copying Message Link               | 🔌      | MessageLinkContext/CopyUrlInsteadOfShare                 |
 | Copying text correctly             | 🔌      | CopyWithMarkdown                                         |
