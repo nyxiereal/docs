@@ -43,5 +43,6 @@
 | Server Profiles                    | 🧩      | Built into Aliucord, only for nitro users                |
 | Upload Size                        | 🧩      | Built into Aliucord                                      |
 | Viewing Forwarded Messages         | 🧩      | Built into Aliucord                                      |
+| New Discord badges                 | 🧩      | Built into Aliucord                                      |
 
 For a full list of features currently missing/being worked on, see [Missing Features](./Missing%20Features.md)
