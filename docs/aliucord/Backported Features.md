@@ -8,7 +8,7 @@
 :::
 
 # 🔌
-|**Feature**|**Plugin Name**|
+|*Feature*|*Plugin Name*|
 |-|-|
 Voice messages|VoiceMessages
 Audio playing|AudioPlayer 💣
@@ -37,7 +37,7 @@ Favorite GIFs|Frecents 💣🚧
 Member since|UserDetails
 
 # 🧩
-|**Feature**|
+|*Feature*|
 |-|
 Viewing forwarded messages
 Upload size
