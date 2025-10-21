@@ -7,42 +7,44 @@
 - 🚧: Still in development or beta
 :::
 
-| Feature                            | Status | Notes                                                    |
+| Feature                            | Status | Plugin Name                                              |
 | ---------------------------------- | ------ | -------------------------------------------------------- |
-| Audio Playing                      | 🔌 💣    | AudioPlayer, kinda broken, you'll need to install a fork |
-| Changing Pronouns and Display Name | 🔌      | MoreProfile plugin                                       |
-| Closing DMs from bottomsheet       | 🔌      | CloseDMs plugin                                          |
+| Audio Playing                      | 🔌 💣    | AudioPlayer                                              |
+| Changing Pronouns and Display Name | 🔌      | MoreProfile                                              |
+| Closing DMs from bottomsheet       | 🔌      | CloseDMs                                                 |
 | Components V2                      | 🔌 🚧    | ComponentsV2Beta plugin                                  |
-| Connection Icons                   | 🔌      | UnknownConnectionIcons plugin                            |
-| Copying Message Link               | 🔌      | MessageLinkContext/CopyUrlInsteadOfShare plugins         |
-| Copying text correctly             | 🔌      | CopyWithMarkdown plugin                                  |
-| Deleting Embeds                    | 🔌      | DeleteEmbeds plugin                                      |
-| Devices Page                       | 🔌 💣    | Sessions plugin, kinda broken                            |
-| Discovery                          | 🔌 💣    | Discovery plugin, kinda broken                           |
-| Duplicate Channels                 | 🔌      | CloneChannels plugin                                     |
-| Favoriting Channels                | 🔌      | FavoriteChannels plugin                                  |
-| Favorite GIFs section              | 🔌 💣    | Frecents plugin, currently broken                        |
-| Forwarding Messages                | 🔌 🚧    | ForwardMessages plugin, still in Beta                    |
-| Friend Nicknames                   | 🔌      | FriendNicknames plugin                                   |
-| Markdown Syntax                    | 🔌      | MoreHighlight plugin                                     |
-| Playing Embeds                     | 🔌      | PlayableEmbeds plugin                                    |
-| Profile Colors                     | 🔌      | NewProfiles plugin                                       |
-| Sed                                | 🔌      | Sed plugin                                               |
-| Sending Voice Messages             | 🔌      | VoiceMessages plugin                                     |
-| Slash Commands V3                  | 🔌 🚧    | SlashCommandsFixBeta plugin                              |
-| Sorted Searching                   | 🔌      | Before, during and after a date; Scout plugin            |
-| Twitter Embeds and Videos          | 🔌      | TwitterRebuild plugin                                    |
-| Updated TwEmoji                    | 🔌      | NewEmojis plugin                                         |
-| User Details such as joined date   | 🔌      | UserDetails plugin                                       |
-| VC Stream Preview                  | 🔌      | ViewStreamPreview plugin                                 |
-| Webhook Utilities                  | 🔌      | EditWebhooks plugin                                      |
-| `/nick` command                    | 🔌      | SlashNick plugin                                         |
+| Connection Icons                   | 🔌      | UnknownConnectionIcons                                   |
+| Copying Message Link               | 🔌      | MessageLinkContext/CopyUrlInsteadOfShare                 |
+| Copying text correctly             | 🔌      | CopyWithMarkdown                                         |
+| Deleting Embeds                    | 🔌      | DeleteEmbeds                                             |
+| Devices Page                       | 🔌 💣    | Sessions                                                 |
+| Discovery                          | 🔌 💣    | Discovery                                                |
 | Display Names & Pomelo Usernames   | 🧩      | Built into Aliucord                                      |
-| Polls                              | 🧩      | Built into Aliucord                                      |
-| Pronouns                           | 🧩      | Built into Aliucord                                      |
-| Server Profiles                    | 🧩      | Built into Aliucord, only for nitro users                |
-| Upload Size                        | 🧩      | Built into Aliucord                                      |
-| Viewing Forwarded Messages         | 🧩      | Built into Aliucord                                      |
+| Duplicate Channels                 | 🔌      | CloneChannels                                            |
+| Favorite GIFs section              | 🔌 💣    | Frecents                                                 |
+| Favoriting Channels                | 🔌      | FavoriteChannels                                         |
+| Forwarding Messages                | 🔌 🚧    | ForwardMessages                                          |
+| Friend Nicknames                   | 🔌      | FriendNicknames                                          |
+| Markdown Syntax                    | 🔌      | MoreHighlight                                            |
 | New Discord badges                 | 🧩      | Built into Aliucord                                      |
+| Nick Command                       | 🔌      | SlashNick                                                |
+| Playing Embeds                     | 🔌      | PlayableEmbeds                                           |
+| Polls                              | 🧩      | Built into Aliucord                                      |
+| Profile Colors                     | 🔌      | NewProfiles                                              |
+| Pronouns                           | 🧩      | Built into Aliucord                                      |
+| Quests (view only)                 | 🔌      | ViewQuests                                               |
+| Sed                                | 🔌      | Sed                                                      |
+| Sending Voice Messages             | 🔌      | VoiceMessages                                            |
+| Server Profiles                    | 🧩      | Built into Aliucord, only for nitro users                |
+| Slash Commands V3                  | 🔌 🚧    | SlashCommandsFixBeta                                     |
+| Sorted Searching                   | 🔌      | Scout                                                    |
+| Summaries                          | 🔌      | Summaries                                                |
+| Twitter Embeds and Videos          | 🔌      | TwitterRebuild                                           |
+| Updated TwEmoji                    | 🔌      | NewEmojis                                                |
+| Upload Size                        | 🧩      | Built into Aliucord                                      |
+| User Details such as joined date   | 🔌      | UserDetails                                              |
+| VC Stream Preview                  | 🔌      | ViewStreamPreview                                        |
+| Viewing Forwarded Messages         | 🧩      | Built into Aliucord                                      |
+| Webhook Utilities                  | 🔌      | EditWebhooks                                             |
 
 For a full list of features currently missing/being worked on, see [Missing Features](./Missing%20Features.md)
