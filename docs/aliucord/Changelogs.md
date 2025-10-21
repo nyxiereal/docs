@@ -1,5 +1,11 @@
 # Changelogs
 
+## 2.?.? (unknown version number yet)
+- Disable smooth keyboard animation
+- Add new Discord badges
+- Don't allow creating polls without permission
+- Remove more billing upsells
+
 ## 2.5.0 (current version)
 - Fix VC disconnecting issue by removing an old workaround
 - Don't remove billing if user has nitro (the "billing settings" section from settings is now also removed for non-nitro users)
