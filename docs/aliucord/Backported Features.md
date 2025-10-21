@@ -8,7 +8,7 @@
 :::
 
 # 🔌
-|*Feature*|*Plugin Name*|
+|Feature|Plugin Name|
 |-|-|
 Voice messages|VoiceMessages
 Audio playing|AudioPlayer 💣
