@@ -43,5 +43,6 @@ Member since|UserDetails
 - Pomelo usernames
 - Polls
 - Pronouns
+- New profile badges
 
 For a full list of features currently missing/being worked on, see [Missing Features](./Missing%20Features.md)
