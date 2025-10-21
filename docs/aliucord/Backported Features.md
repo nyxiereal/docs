@@ -37,13 +37,11 @@ Favorite GIFs|Frecents 💣🚧
 Member since|UserDetails
 
 # 🧩
-|*Feature*|
-|-|
-Viewing forwarded messages
-Upload size
-Display names
-Pomelo usernames
-Polls
-Pronouns
+- Viewing forwarded messages
+- Upload size
+- Display names
+- Pomelo usernames
+- Polls
+- Pronouns
 
 For a full list of features currently missing/being worked on, see [Missing Features](./Missing%20Features.md)
