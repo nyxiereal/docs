@@ -1,6 +1,7 @@
 # Changelogs
 
 ## 2.?.? (unknown version number yet)
+- Add missing experiments
 - Disable smooth keyboard animation
 - Add new Discord badges
 - Don't allow creating polls without permission
