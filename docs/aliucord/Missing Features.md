@@ -19,6 +19,7 @@ Compared to the RN client.
 |Remixing images|❌|Remixing images|N/A|
 |Soundboard|❌|Soundboard in VCs|N/A|
 |Remove attachments from a message individually|❌|Holding an attachment in a message and removing it|There's DeleteEmbeds plugin which lets you remove all attachments/embeds in a message, but not individually
+|Security Keys|❌|If you have a security key, it asks for 2FA app code which doesn't make sense
 |Adding friends|🚧|Adding friends from the "Add friend" page|[Pull 601](https://github.com/Aliucord/Aliucord/pull/601)|
 |Guild tags|🚧|Guild tags|[Pull 594](https://github.com/Aliucord/Aliucord/pull/594) & [Beta](https://discord.com/channels/811255666990907402/811261478875299840/1430585938563829781)|
 |Slash commands V3|🚧|Bot slash commands|[Pull 431](https://github.com/Aliucord/Aliucord/pull/431) & [Beta via plugin](https://github.com/LavaDesu/Awoocord/raw/builds/SlashCommandsFixBeta.zip)|
