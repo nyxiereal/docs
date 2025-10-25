@@ -35,7 +35,7 @@ Favorite channels|FavoriteChannels
 New emojis|NewEmojis
 Favorite GIFs|Frecents 💣🚧
 Member since|UserDetails
-
+---
 # 🧩
 - Viewing forwarded messages
 - Upload size
@@ -44,7 +44,7 @@ Member since|UserDetails
 - Polls
 - Pronouns
 - New profile badges
-
+---
 # "Use Aliucord core from storage" method
 ## Notes
 - This method is used for core features that are not merged yet, this means that they are still in a very early Beta state, use at your own risk
@@ -53,5 +53,5 @@ Member since|UserDetails
 ## Backports that use this method:
 - [Guild tags, display name styles & user decorations](https://drive.usercontent.google.com/uc?id=1hJKnpux5-2sUY9I1tx4yHCaIOO0CEBfW&export=download)
 - [Account Standing](https://drive.usercontent.google.com/uc?id=1fzuYpSd_GgFHr8yRFjMVCO2UAt8OIMai&export=download)
-
+---
 For a full list of features currently missing/being worked on, see [Missing Features](./Missing%20Features.md)
