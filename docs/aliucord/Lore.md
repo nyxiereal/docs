@@ -1,5 +1,11 @@
 # Lore of mobile client mods for Discord
 
+:::tip Legend
+- Red - Discontinued
+- Green - Active
+- Blue - Bluecord
+:::
+
 ```mermaid
 graph TD
     Z["Bluecord<br/>(2022-Present), Malware<br/> ."]
@@ -27,9 +33,3 @@ graph TD
     style F fill:#57F287,stroke:#43B581,color:#000
     style Z fill:#5865F2,stroke:#4752C4,color:#fff
 ```
-
-:::tip Legend
-- Red - Discontinued
-- Green - Active
-- Blue - Bluecord
-:::

@@ -4,7 +4,7 @@
 - Add missing experiments
 - Disable smooth keyboard animation
 - Add new Discord badges
-- Don't allow creating polls without permission
+- Disallow creating polls without permission
 - Remove more billing upsells
 
 ## 2.5.0 (current version)
@@ -14,7 +14,7 @@
 
 ## 2.4.0
 - User decorations coming soon (there's a coreplugin that lays the underground, they are not visible yet tho)
-- Add google sideloading block warning
+- Add Google sideloading block warning
 - Rich video embed fix (such as fxtwitter)
 - Italicize CorePlugins for /plugins command
 - Randomize donation link in settings
