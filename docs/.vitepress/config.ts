@@ -1,6 +1,15 @@
 import sidebar from './sidebar.ts'
+import { withMermaid } from "vitepress-plugin-mermaid";
 
-export default {
+export default withMermaid({
+  vite: {
+    optimizeDeps: { include: ['@braintree/sanitize-url'] },
+    resolve: {
+      alias: {
+        dayjs: 'dayjs/',
+      },
+    },
+  },
   title: "Nyx's stuff",
   description: 'I write when I feel like it',
   base: '/',
@@ -25,4 +34,4 @@ export default {
       provider: 'local'
     },
   },
-}
+})
