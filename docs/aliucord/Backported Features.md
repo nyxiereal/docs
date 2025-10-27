@@ -50,12 +50,14 @@
 :::
 1. How to use Aliucord from storage:
     1. Download the `.zip` file from the links below
-    2. Open Aliucord settings > Aliucord from storage
-    3. Put the downloaded `.zip` file in your `Aliucord` folder
-    4. Restart Aliucord
+    2. Extract it and find `Aliucord.zip` inside it
+    3. Move `Aliucord.zip` to your `Aliucord` folder
+    5. Open Aliucord settings
+    6. Enable [Developer Mode](https://files.catbox.moe/10707n.jpg) & [Aliucord from storage](https://files.catbox.moe/lruiyx.jpg)
+    7. Restart Aliucord
 
 2. Backports that use this method:
-    - [Guild tags, display name styles & user decorations](https://drive.usercontent.google.com/uc?id=1hJKnpux5-2sUY9I1tx4yHCaIOO0CEBfW&export=download)
-    - [Account Standing](https://drive.usercontent.google.com/uc?id=1fzuYpSd_GgFHr8yRFjMVCO2UAt8OIMai&export=download)
+    - [Guild tags, display name styles & user decorations](https://nightly.link/LavaDesu/Aliucord/actions/runs/18785265129/build.zip)
+    - [Account Standing](https://nightly.link/Aliucord/Aliucord/actions/runs/18803722122/build.zip)
 ---
 For a full list of features currently missing/being worked on, see [Missing Features](./Missing%20Features.md)
