@@ -57,7 +57,7 @@
     7. Restart Aliucord
 
 2. Backports that use this method:
-    - [Guild tags, display name styles & user decorations](https://nightly.link/LavaDesu/Aliucord/workflows/build/next/build.zip?status=completed)
+    - [Guild tags, display name styles, nameplates & avatar decorations](https://nightly.link/LavaDesu/Aliucord/workflows/build/next/build.zip?status=completed)
     - [Account Standing](https://nightly.link/omardotdev/aliucar/workflows/build/feat%2Faccount-standing/build.zip?status=completed)
 ---
 For a full list of features currently missing/being worked on, see [Missing Features](./Missing%20Features.md)
