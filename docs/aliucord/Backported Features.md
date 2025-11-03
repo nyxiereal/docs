@@ -51,7 +51,7 @@
 1. How to use Aliucord from storage:
     1. Download the `.zip` file from the links below
     2. Extract it and find `Aliucord.zip` inside it
-    3. Move `Aliucord.zip` to your `Aliucord` folder
+    3. Move `Aliucord.zip` to your `Aliucord` folder ([video tutorial](https://streamable.com/dj705w))
     5. Open Aliucord settings
     6. Enable [Developer Mode](https://files.catbox.moe/10707n.jpg) & [Aliucord from storage](https://files.catbox.moe/lruiyx.jpg)
     7. Restart Aliucord
