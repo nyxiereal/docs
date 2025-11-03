@@ -57,10 +57,11 @@
     7. Restart Aliucord
 
 2. Backports that use this method:
-    - [Guild tags](https://nightly.link/LavaDesu/Aliucord/workflows/build/feat%2Ffluff_guildtag/build.zip?status=completed)
-    - [Nameplates](https://nightly.link/LavaDesu/Aliucord/workflows/build/feat%2Fdecor_nameplate/build.zip?status=completed)
-    - [Display name styles](https://nightly.link/LavaDesu/Aliucord/workflows/build/feat%2Fdecor_displaynamestyles/build.zip?status=completed)
-    - [Avatar decor](https://nightly.link/LavaDesu/Aliucord/workflows/build/feat%2Fdecor_avatar/build.zip?status=completed)
+    - [Guild tags, nameplates, display name styles, avatar decor (All in One)](https://nightly.link/LavaDesu/Aliucord/workflows/build/next/build.zip?status=completed)
+      - [Guild tags](https://nightly.link/LavaDesu/Aliucord/workflows/build/feat%2Ffluff_guildtag/build.zip?status=completed)
+      - [Nameplates](https://nightly.link/LavaDesu/Aliucord/workflows/build/feat%2Fdecor_nameplate/build.zip?status=completed)
+      - [Display name styles](https://nightly.link/LavaDesu/Aliucord/workflows/build/feat%2Fdecor_displaynamestyles/build.zip?status=completed)
+      - [Avatar decor](https://nightly.link/LavaDesu/Aliucord/workflows/build/feat%2Fdecor_avatar/build.zip?status=completed)
     - [Account Standing](https://nightly.link/omardotdev/aliucar/workflows/build/feat%2Faccount-standing/build.zip?status=completed)
 ---
 For a full list of features currently missing/being worked on, see [Missing Features](./Missing%20Features.md)
