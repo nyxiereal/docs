@@ -9,20 +9,20 @@
 | Feature                          | Plugin Name            |
 | -------------------------------- | ---------------------- |
 | Voice messages                   | VoiceMessages          |
-| Audio playing                    | AudioPlayer 💣          |
+| Audio playing                    | AudioPlayer 💣 (fork has less bugs tho) |
 | Forwarding messages              | ForwardMessages        |
 | Closing DMs from bottomsheet     | CloseDMs               |
-| Slash commands V3                | SlashCommandsFixBeta 🚧 |
-| Components V2                    | ComponentsV2Beta 🚧     |
-| Quests                           | ViewQuests 🚧           |
-| Summaries                        | Summaries 🚧            |
+| Slash commands V3                | SlashCommandsFixBeta 🚧                 |
+| Components V2                    | ComponentsV2Beta 🚧                     |
+| Quests                           | ViewQuests 🚧                           |
+| Summaries                        | Summaries 🚧                            |
 | Embed playing                    | PlayableEmbeds         |
 | Swiping to reply                 | SwipeToReply           |
 | Nick command                     | SlashNick              |
 | Changing pronouns & display name | MoreProfile            |
 | Duplicate channel                | CloneChannels          |
-| Discovery                        | Discovery 💣            |
-| Devices page                     | Sessions 💣             |
+| Discovery                        | Discovery 💣                            |
+| Devices page                     | Sessions 💣                             |
 | Webhooks                         | EditWebhooks           |
 | Sorted searching                 | Scout                  |
 | Markdown syntax                  | MoreHighlight          |
@@ -31,7 +31,7 @@
 | Delete embed                     | DeleteEmbeds           |
 | Favorite channels                | FavoriteChannels       |
 | New emojis                       | NewEmojis              |
-| Favorite GIFs                    | Frecents 💣🚧            |
+| Favorite GIFs                    | Frecents               |
 | Member since                     | UserDetails            |
 
 # Built-in to Aliucord
