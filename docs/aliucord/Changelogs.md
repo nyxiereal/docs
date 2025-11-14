@@ -1,6 +1,9 @@
 # Changelogs
 
 ## 2.?.? (unknown version number yet)
+- Implement avatar decorations
+- Fix animated webp emojis not rendering
+- Add safe mode (disables all plugins)
 - Add missing experiments
 - Disable smooth keyboard animation
 - Add new Discord badges
@@ -8,7 +11,7 @@
 - Remove more billing upsells
 
 ## 2.5.0 (current version)
-- Fix VC disconnecting issue by removing an old workaround
+- Remove old voice workaround
 - Don't remove billing if user has nitro (the "billing settings" section from settings is now also removed for non-nitro users)
 - Fix links opening in aliucord's window instead of the link's app window (such as youtube)
 
