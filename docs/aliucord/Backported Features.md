@@ -46,7 +46,7 @@ Click the plugin names, it will download the plugin .zip, now just move it to th
 - Pomelo usernames (`@username` instead of `username#1234`)
 - Polls
 - Pronouns
-- New profile badges (quests, developer, etc.)
+- New profile badges (quests, developer, etc.) (soon in core)
 - Avatar decorations (soon in core, at the moment you can use [this](Backported%20Features.html#aliucord-from-storage))
 
 # Aliucord from storage
