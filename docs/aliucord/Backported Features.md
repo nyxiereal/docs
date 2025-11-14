@@ -47,6 +47,7 @@ Click the plugin names, it will download the plugin .zip, now just move it to th
 - Polls
 - Pronouns
 - New profile badges (quests, developer, etc.)
+- Avatar decorations (soon in core, at the moment you can use [this](Backported%20Features.html#aliucord-from-storage))
 
 # Aliucord from storage
 :::tip Note
@@ -62,11 +63,11 @@ Click the plugin names, it will download the plugin .zip, now just move it to th
     7. Restart Aliucord
 
 2. Backports that use this method:
-    - [Guild tags, nameplates, display name styles, avatar decor (All in One)](https://nightly.link/LavaDesu/Aliucord/workflows/build/next/build.zip?status=completed)
+    - [Guild tags, nameplates, display name styles, avatar decorations (All in One)](https://nightly.link/LavaDesu/Aliucord/workflows/build/next/build.zip?status=completed)
       - [Guild tags](https://nightly.link/LavaDesu/Aliucord/workflows/build/feat%2Ffluff_guildtag/build.zip?status=completed)
       - [Nameplates](https://nightly.link/LavaDesu/Aliucord/workflows/build/feat%2Fdecor_nameplate/build.zip?status=completed)
       - [Display name styles](https://nightly.link/LavaDesu/Aliucord/workflows/build/feat%2Fdecor_displaynamestyles/build.zip?status=completed)
-      - [Avatar decor](https://nightly.link/LavaDesu/Aliucord/workflows/build/feat%2Fdecor_avatar/build.zip?status=completed)
-    - [Account Standing](https://nightly.link/omardotdev/aliucar/workflows/build/feat%2Faccount-standing/build.zip?status=completed)
+      - [Avatar decorations](https://nightly.link/LavaDesu/Aliucord/workflows/build/feat%2Fdecor_avatar/build.zip?status=completed)
+    - [Account Standing (also includes avatar decorations)](https://nightly.link/omardotdev/aliucar/workflows/build/feat%2Faccount-standing/build.zip?status=completed)
 ---
 For a full list of features currently missing/being worked on, see [Missing Features](./Missing%20Features.md)
