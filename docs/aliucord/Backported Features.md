@@ -69,5 +69,17 @@ Click the plugin names, it will download the plugin .zip, now just move it to th
       - [Display name styles](https://nightly.link/LavaDesu/Aliucord/workflows/build/feat%2Fdecor_displaynamestyles/build.zip?status=completed)
       - [Avatar decorations](https://nightly.link/LavaDesu/Aliucord/workflows/build/feat%2Fdecor_avatar/build.zip?status=completed)
     - [Account Standing (also includes avatar decorations)](https://nightly.link/omardotdev/aliucar/workflows/build/feat%2Faccount-standing/build.zip?status=completed)
+
+> If that didn't work, make sure your Aliucord is updated through [Manager](https://github.com/Aliucord/Manager/releases/download/v1.1.1/aliucord-manager-v1.1.1.apk)
+>
+> If you are sure it's already updated but still doesn't work, install [ForceAliucordZip](https://github.com/OmegaSunkey/awesomeplugins/raw/builds/ForceAliucordZip.zip) plugin:
+> - Disable `Aliucord from storage` option
+> - Download the [plugin .zip](https://github.com/OmegaSunkey/awesomeplugins/raw/builds/ForceAliucordZip.zip)
+> - Move the plugin `.zip` to the `Aliucord/plugins` folder
+> - Restart Aliucord two times
+>
+> This plugin makes the `Aliucord.zip` work without need to enable `Aliucord from storage`, which seems broken on some devices
+
 ---
+
 For a full list of features currently missing/being worked on, see [Missing Features](./Missing%20Features.md)
