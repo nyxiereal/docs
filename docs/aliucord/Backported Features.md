@@ -59,7 +59,7 @@ Click the plugin names, it will download the plugin .zip, now just move it to th
     2. Extract it and find `Aliucord.zip` inside it
     3. Move `Aliucord.zip` to your `Aliucord` folder ([video tutorial](https://streamable.com/dj705w))
     5. Open Aliucord settings
-    6. Enable [Developer Mode](https://files.catbox.moe/10707n.jpg) & [Aliucord from storage](https://files.catbox.moe/lruiyx.jpg)
+    6. Enable [Developer Mode](https://files.catbox.moe/10707n.jpg) & [Aliucord from storage](https://files.catbox.moe/lruiyx.jpg) ([video tutorial](https://streamable.com/pxcs34))
     7. Restart Aliucord
 
 2. Backports that use this method:
