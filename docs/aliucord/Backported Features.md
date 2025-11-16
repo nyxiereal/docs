@@ -80,6 +80,4 @@ Click the plugin names, it will download the plugin .zip, now just move it to th
 >
 > This plugin makes the `Aliucord.zip` work without need to enable `Aliucord from storage`, which seems broken on some devices
 
----
-
 For a full list of features currently missing/being worked on, see [Missing Features](./Missing%20Features.md)
