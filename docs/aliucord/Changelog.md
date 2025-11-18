@@ -1,4 +1,4 @@
-# Changelog
+# Aliucord changelog
 
 ## 2.6.0 (current version)
 - Temporarily fix Voice Chat until March
