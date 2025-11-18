@@ -1,7 +1,7 @@
 # Changelogs
 
 ## 2.6.0 (current version)
-- Temporarily fix Voice Calls until March
+- Temporarily fix Voice Chat until March
 - Implement avatar decorations
 - Fix animated webp emojis not rendering
 - Add safe mode (disables all plugins)
