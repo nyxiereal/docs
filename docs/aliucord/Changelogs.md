@@ -1,6 +1,7 @@
 # Changelogs
 
-## 2.?.? (unknown version number yet)
+## 2.6.0 (current version)
+- Temporarily fix Voice Calls until March
 - Implement avatar decorations
 - Fix animated webp emojis not rendering
 - Add safe mode (disables all plugins)
@@ -10,7 +11,7 @@
 - Disallow creating polls without permission
 - Remove more billing upsells
 
-## 2.5.0 (current version)
+## 2.5.0
 - Remove old voice workaround
 - Don't remove billing if user has nitro (the "billing settings" section from settings is now also removed for non-nitro users)
 - Fix links opening in aliucord's window instead of the link's app window (such as youtube)
