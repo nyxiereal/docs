@@ -35,3 +35,5 @@ Compared to the RN client.
 | Components V2                                  | 🚧      | Buttons, dropdowns, modals, etc.                              | [Beta via plugin](https://github.com/LavaDesu/Awoocord/raw/builds/ComponentsV2Beta.zip)                                                                 |
 | Summaries                                      | 🚧      | AI conversation summaries                                     | [Poorly backported, but works](https://github.com/MCausc78/RNSucks/raw/builds/Summaries.zip)                                                            |
 | Quests                                         | 🚧      | They are not even fully implemented in the play store version | [You can view them using the ViewQuests plugin](https://raw.githubusercontent.com/nyxiereal/AliucordPlugins/builds/ViewQuests.zip)                      |
+
+For a list of backported features, see [Backported Features](https://docs.meowery.eu/aliucord/Backported%20Features.html)
