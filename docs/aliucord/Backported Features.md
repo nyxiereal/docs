@@ -15,7 +15,7 @@ Click the plugin names, it will download the plugin .zip, now just move it to th
 | Voice messages                   | [VoiceMessages](https://github.com/mantikafasi/AliucordPlugins/raw/builds/VoiceMessages.zip)                               |
 | Audio playing                    | [AudioPlayer](https://github.com/Archimedes9500/Halkiion-rushiiMachine-aliucord-plugins/raw/builds/AudioPlayer.zip) (fork) |
 | Forwarding messages              | [ForwardMessages](https://github.com/reisxd/AliucordPlugins/raw/builds/ForwardMessages.zip)                                |
-| Closing DMs from bottomsheet     | [CloseDMs](https://github.com/reisxd/AliucordPlugins/raw/builds/ForwardMessages.zip)                                     |
+| Closing DMs from bottomsheet     | [CloseDMs](https://github.com/reisxd/AliucordPlugins/raw/builds/ForwardMessages.zip)                                       |
 | SlashCommandsV3                  | [SlashCommandsFix](https://github.com/LavaDesu/Awoocord/raw/builds/SlashCommandsFixBeta.zip) 🚧 |
 | ComponentsV2                     | [ComponentsV2](https://github.com/LavaDesu/Awoocord/raw/builds/ComponentsV2Beta.zip) 🚧         |
 | Quests                           | [ViewQuests](https://github.com/nyxiereal/AliucordPlugins/raw/builds/ViewQuests.zip) 🚧         |
@@ -38,6 +38,7 @@ Click the plugin names, it will download the plugin .zip, now just move it to th
 | Favorite GIFs                    | [Frecents](https://github.com/zt64/aliucord-plugins/raw/builds/Frecents.zip)                                               |
 | Member since                     | [UserDetails](https://github.com/Juby210/Aliucord-plugins/raw/builds/UserDetails.zip)                                      |
 | DMTabsV2                         | [DMTabs](https://github.com/OmegaSunkey/awesomeplugins/raw/builds/DMTabs.zip)                                              |
+| Remove attachments individually  | [AttachmentRemover](https://github.com/RazerTexz/My-plugins/raw/builds/AttachmentRemover.zip)                              |
 
 # Built-in to Aliucord
 - Viewing forwarded messages
