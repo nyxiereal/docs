@@ -58,10 +58,12 @@ Click the plugin names, it will download the plugin .zip, now just move it to th
 1. How to use Aliucord from storage:
     1. Download the `.zip` file from the links below
     2. Extract it and find `Aliucord.zip` inside it
-    3. Move `Aliucord.zip` to your `Aliucord` folder ([video tutorial](https://streamable.com/dj705w))
+    3. Move `Aliucord.zip` to your `Aliucord` folder
     5. Open Aliucord settings
-    6. Enable [Developer Mode](https://files.catbox.moe/10707n.jpg) & [Aliucord from storage](https://files.catbox.moe/lruiyx.jpg) ([video tutorial](https://streamable.com/pxcs34))
+    6. Enable [Developer Mode](https://github.com/user-attachments/assets/ee6a45bd-08a5-4bf8-af39-6d03b9d969a4) & [Aliucord from storage](https://github.com/user-attachments/assets/37f9f074-741e-46e1-8162-f753f4af8b30)
     7. Restart Aliucord
+
+[Video Instructions](https://github.com/user-attachments/assets/6860f787-cae9-4560-9d29-5efa1f05af78)
 
 2. Backports that use this method:
     - [Guild tags, nameplates & display name styles (All in One)](https://nightly.link/LavaDesu/Aliucord/workflows/build/next/build.zip?status=completed)
