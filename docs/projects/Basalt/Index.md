@@ -10,10 +10,11 @@ You will probably have a better time with eduVulcan Premium, it is paid, but onl
 :::
 
 ## Feature comparison with eduVulcan
-| Feature                   | Basalt              | eduVulcan Basic     | eduVulcan Extended                  |
-| ------------------------- | ------------------- | ------------------- | ----------------------------------- |
+
+| Feature                   | Basalt               | eduVulcan Basic      | eduVulcan Extended                   |
+| ------------------------- | -------------------- | -------------------- | ------------------------------------ |
 | PUSH Notifications        | ✅ (polling)         | ❌                   | ✅                                   |
-| Excusing absences         | ❌ (no example data) | ❌                   | ✅                                   |
+| Excusing absences         | ✅                   | ❌                   | ✅                                   |
 | Messages                  | ✅                   | ❌                   | ✅                                   |
 | App Theming               | ✅ (Material You)    | ❌                   | 🚧 (Basic changing of in-app colors) |
 | Attendance                | ✅                   | ✅                   | ✅                                   |
@@ -30,27 +31,29 @@ You will probably have a better time with eduVulcan Premium, it is paid, but onl
 
 ## Feature comparison with Wulkanowy
 
-| Feature                         | Basalt                     | Wulkanowy         |
-| ------------------------------- | -------------------------- | ----------------- |
-| Login via email and password    | ✅                          | ✅                 |
-| Grades                          | ✅                          | ✅                 |
-| Grade statistics                | ✅                          | ✅                 |
-| Attendance                      | ✅                          | ✅                 |
-| Attendance percentage           | ✅                          | ✅                 |
-| Tests/Quizzes                   | ✅                          | ✅                 |
-| Timetable                       | ✅                          | ✅                 |
-| Completed lessons               | ✅                          | ✅                 |
-| Messages                        | ✅                          | ✅                 |
-| Homework                        | ✅                          | ✅                 |
-| Notes                           | ✅                          | ✅                 |
-| Lucky number                    | ❌ (no example data)        | ✅                 |
-| Extra lessons                   | ✅                          | ✅                 |
-| School meetings                 | ❌ (no example data)        | ✅                 |
-| Student & school info           | ✅                          | ✅                 |
-| Independent average calculation | ✅                          | ✅                 |
-| Notifications (e.g., new grade) | ✅                          | ✅                 |
-| Multi-account support           | ❌ (no example data)        | ✅                 |
-| Rename student account          | ❌ (no example data)        | ✅                 |
-| Dark/AMOLED theme               | ✅ (Material You)           | ✅ (dark & AMOLED) |
-| Offline mode                    | ✅                          | ✅                 |
-| Optional ads to support project | ❌ (we will NEVER have ads) | ✅                 |
+Even tho Wulkanowy is dead.
+
+| Feature                         | Basalt                                                | Wulkanowy          |
+| ------------------------------- | ----------------------------------------------------- | ------------------ |
+| Login via email and password    | ✅                                                    | ✅                 |
+| Grades                          | ✅                                                    | ✅                 |
+| Grade statistics                | ✅                                                    | ✅                 |
+| Attendance                      | ✅                                                    | ✅                 |
+| Attendance percentage           | ✅                                                    | ✅                 |
+| Tests/Quizzes                   | ✅                                                    | ✅                 |
+| Timetable                       | ✅                                                    | ✅                 |
+| Completed lessons               | ✅                                                    | ✅                 |
+| Messages                        | ✅                                                    | ✅                 |
+| Homework                        | ✅                                                    | ✅                 |
+| Notes                           | ✅                                                    | ✅                 |
+| Lucky number                    | ❌ (no example data)                                  | ✅                 |
+| Extra lessons                   | ✅                                                    | ✅                 |
+| School meetings                 | ❌ (no example data)                                  | ✅                 |
+| Student & school info           | ✅                                                    | ✅                 |
+| Independent average calculation | ✅                                                    | ✅                 |
+| Notifications (e.g., new grade) | ✅ (polling)                                          | ✅                 |
+| Multi-account support           | ❌ (we support both parent and student account types) | ✅                 |
+| Rename student account          | ❌ (we don't use that account system)                 | ✅                 |
+| Dark/AMOLED theme               | ✅ (Material You)                                     | ✅ (dark & AMOLED) |
+| Offline mode                    | ✅                                                    | ✅                 |
+| Optional ads to support project | ❌ (we will NEVER have ads)                           | ✅                 |
