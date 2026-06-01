@@ -5,5 +5,4 @@ export default {
 	'/guides/': scanDir('guides'),
 	'/notes/': scanDir('notes'),
 	'/blog/': scanDir('blog'),
-	'/aliucord/': scanDir('aliucord'),
 }
