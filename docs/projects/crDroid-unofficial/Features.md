@@ -9,6 +9,6 @@
 
 ## Kernel
 
-- Already rooted with KernelSU-Next
-- No SUSFS (not needed, use treatwheel)
+- Non-root by default (you can use KernelSU or wksu to root your phone)
+- No SUSFS (not needed, use treatwheel+rezygisk)
 - Applied Droidspaces-OSS patches
